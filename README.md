@@ -91,4 +91,4 @@ Learnings:</h1>
 </ul>
 
 <h1>Deployed Link On Netlify</h1>
-<a>https://affable-scissors-7552.vercel.app/</a>
+<a href="https://affable-scissors-7552.vercel.app/">blue</a>
