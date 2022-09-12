@@ -90,5 +90,5 @@ Learnings:</h1>
 
 </ul>
 
-<h1>Deployed Link On Netlify</h1>
+<h1>Deployed Link On Vercel</h1>
 <a  href="https://affable-scissors-7552.vercel.app/" target="_blank">https://affable-scissors-7552.vercel.app/</a>
